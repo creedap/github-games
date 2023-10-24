@@ -1,4 +1,4 @@
-## Welcome to Creed's training session
+## Welcome to Creed's training sessions
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
